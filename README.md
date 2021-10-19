@@ -5,7 +5,7 @@ I am interested in data, and have an aptitude for numbers. I like to keep myself
 I like to connect dots while constantly trying to learn new ways to think and be. 
 Psychology and human behaviour interests me and philosophy gives me a borader perspective, and pushes me to be reasonable in life. I am passionate about translating business requirement into effective solutions and analysing data to bring about fundamental change and improvement in strategy, and functioning of company.
 
-
+composer require fof/https://www.linkedin.com/in/aaditi-rathore-9182751a2
 <!---
 aaditirathore/aaditirathore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
